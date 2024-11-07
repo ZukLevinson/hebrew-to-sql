@@ -1,0 +1,2 @@
+# HeS - Hebrew to SQL
+This project is meant to create easy to-go API, that understands your DB structure, and enables you to retrieve data for non-technical users, enabling them to get the data they need by their own. 
